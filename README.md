@@ -20,3 +20,12 @@ At the moment I am fully committed to entering the world of programming.
 <a href='https://angular.io/'><img src='https://skillicons.dev/icons?i=angular' alt='Angular Logo' width='50px' height='50px'/></a>
 <a href='https://www.postman.com/'><img src='https://skillicons.dev/icons?i=postman' alt='Postman Logo' width='50px' height='50px'/></a>
 <a href='https://github.com/'><img src='https://skillicons.dev/icons?i=github' alt='GitHub Logo' width='50px' height='50px'/></a>
+
+📊 GitHub Stats
+---
+
+<a href='https://github.com/Nikolay-Gavazov'><img src='https://github-readme-stats.vercel.app/api?username=Nikolay-Gavazov&theme=vue-dark&show_icons=true&hide_border=true&count_private=true' width='480px' height='230px'/></a>
+
+<a href='https://github.com/Nikolay-Gavazov'><img src='https://github-readme-streak-stats.herokuapp.com/?user=Nikolay-Gavazov&theme=vue-dark&hide_border=true' width='480px' height='230px'/></a>
+
+<a href='https://github.com/Nikolay-Gavazov'><img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Nikolay-Gavazov&theme=vue-dark&show_icons=true&hide_border=true&layout=compact' width='480px' height='230px'/></a>
