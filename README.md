@@ -1,10 +1,10 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">, Welcome to My Profile!
+<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">! Welcome to My Profile!</h1>
 
 ---
 
-I am Nikolay Gavazov.
+<h3 align="center">I am Nikolay Gavazov.
 I am currently actively studying JavaScript at SoftUni. 
-At the moment I am fully committed to entering the world of programming. 
+At the moment I am fully committed to entering the world of programming. </h3>
 
 
 🧰 Toolbox
@@ -30,5 +30,5 @@ At the moment I am fully committed to entering the world of programming.
 
 <a href='https://github.com/Nikolay-Gavazov'><img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Nikolay-Gavazov&theme=vue-dark&show_icons=true&hide_border=true&layout=compact' width='480px' height='230px'/></a>
 
-<a href='https://github.com/Nikolay-Gavazov'><img src='https://komarev.com/ghpvc/?username=nikolay-gavazov&color=blue' width="150px" height="40px"/></a>
+<a href='https://github.com/Nikolay-Gavazov'><img src='https://komarev.com/ghpvc/?username=nikolay-gavazov&color=blue' width="150px" height="30px"/></a>
 
