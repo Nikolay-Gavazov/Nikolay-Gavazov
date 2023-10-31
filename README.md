@@ -16,6 +16,7 @@ At the moment I am fully committed to entering the world of programming. </h3>
 <a href='https://firebase.google.com/'><img src='https://skillicons.dev/icons?i=firebase' alt='Firebase Logo' width='50px' height='50px'/></a>
 <a href='https://www.typescriptlang.org/'><img src='https://skillicons.dev/icons?i=typescript' alt='TypeScript Logo' width='50px' height='50px'/></a>
 <a href='https://angular.io/'><img src='https://skillicons.dev/icons?i=angular' alt='Angular Logo' width='50px' height='50px'/></a>
+<a href='https://react.dev/'><img src='https://skillicons.dev/icons?i=react' alt='Angular Logo' width='50px' height='50px'/></a>
 <a href='https://www.postman.com/'><img src='https://skillicons.dev/icons?i=postman' alt='Postman Logo' width='50px' height='50px'/></a>
 <a href='https://github.com/'><img src='https://skillicons.dev/icons?i=github' alt='GitHub Logo' width='50px' height='50px'/></a>
 
