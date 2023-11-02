@@ -21,7 +21,7 @@ At the moment I am fully committed to entering the world of programming. </h3>
 <a href='https://github.com/'><img src='https://skillicons.dev/icons?i=github' alt='GitHub Logo' width='50px' height='50px'/></a>
 
 <h2>🎓Certificates</h2>
-<div><a href="https://softuni.bg/certificates/certificates/converttoimage/137474?code=b24c3139">JS Basics</a></div>
+<div><a target="_blank" href="https://softuni.bg/certificates/certificates/converttoimage/137474?code=b24c3139">JS Basics</a></div>
 <div><a href='https://softuni.bg/certificates/certificates/converttoimage/149490?code=21e0f7e9'>JS Fundamentals</a></div>
 <div><a href='https://softuni.bg/certificates/certificates/converttoimage/160072?code=dac34f39'>JS Advanced</a></div>
 <div><a href='https://softuni.bg/certificates/certificates/converttoimage/167752?code=781b7690'>JS Applications</a></div>
