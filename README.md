@@ -21,13 +21,24 @@ At the moment I am fully committed to entering the world of programming. </h3>
 <a href='https://github.com/'><img src='https://skillicons.dev/icons?i=github' alt='GitHub Logo' width='50px' height='50px'/></a>
 
 <h2>🎓Certificates</h2>
-<div><a target="_blank" href="https://softuni.bg/certificates/certificates/converttoimage/137474?code=b24c3139">JS Basics</a></div>
+<div><a target="_new" href="https://softuni.bg/certificates/certificates/converttoimage/137474?code=b24c3139">JS Basics</a></div>
 <div><a href='https://softuni.bg/certificates/certificates/converttoimage/149490?code=21e0f7e9'>JS Fundamentals</a></div>
 <div><a href='https://softuni.bg/certificates/certificates/converttoimage/160072?code=dac34f39'>JS Advanced</a></div>
 <div><a href='https://softuni.bg/certificates/certificates/converttoimage/167752?code=781b7690'>JS Applications</a></div>
 <div><a href='https://softuni.bg/certificates/certificates/converttoimage/175229?code=aeeca5bb'>JS Back-End</a></div>
 <div><a href='https://softuni.bg/certificates/certificates/converttoimage/182993?code=6a015746'>Angular</a></div>
 <div><a href='https://softuni.bg/certificates/certificates/converttoimage/191026?code=fe681870'>HTML&CSS</a></div>
+<div><a href='https://softuni.bg/certificates/certificates/converttoimage/197926?code=60542fed'>React</a></div>
+
+<h2>💻 Repositories</h2>
+<div><a target="_new" href="https://github.com/Nikolay-Gavazov/SoftUni/tree/main/JS%20Basics">JS Basics</a></div>
+<div><a target="_new" href="https://github.com/Nikolay-Gavazov/SoftUni/tree/main/JS%20Fundamentals">JS Fundamentals</a></div>
+<div><a target="_new" href="https://github.com/Nikolay-Gavazov/SoftUni/tree/main/JS%20Advanced">JS Advanced</a></div>
+<div><a target="_new" href="https://github.com/Nikolay-Gavazov/SoftUni/tree/main/JS%20Applications">JS Applications</a></div>
+<div><a target="_new" href="https://github.com/Nikolay-Gavazov/SoftUni/tree/main/JS%20BackEnd">JS BackEnd</a></div>
+<div><a target="_new" href="https://github.com/Nikolay-Gavazov/SoftUni/tree/main/HTML%26CSS">HTML&CSS</a></div>
+<div><a target="_new" href="https://github.com/Nikolay-Gavazov/SoftUni/tree/main/Angular">Angular</a></div>
+<div><a target="_new" href="https://github.com/Nikolay-Gavazov/SoftUni/tree/main/React">React</a></div>
 
 📊 GitHub Stats
 ---
