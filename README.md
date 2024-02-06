@@ -13,12 +13,66 @@ At the moment I am fully committed to entering the world of programming. </h3>
 <a href='https://nodejs.org/en'><img src='https://skillicons.dev/icons?i=nodejs' alt='Node.js Logo' width='50px' height='50px'/></a>
 <a href='https://expressjs.com/'><img src='https://skillicons.dev/icons?i=express' alt='Express Logo' width='50px' height='50px'/></a>
 <a href='https://www.mongodb.com/'><img src='https://skillicons.dev/icons?i=mongodb' alt='MongoDb Logo' width='50px' height='50px'/></a>
-<a href='https://firebase.google.com/'><img src='https://skillicons.dev/icons?i=firebase' alt='Firebase Logo' width='50px' height='50px'/></a>
 <a href='https://www.typescriptlang.org/'><img src='https://skillicons.dev/icons?i=typescript' alt='TypeScript Logo' width='50px' height='50px'/></a>
 <a href='https://angular.io/'><img src='https://skillicons.dev/icons?i=angular' alt='Angular Logo' width='50px' height='50px'/></a>
 <a href='https://react.dev/'><img src='https://skillicons.dev/icons?i=react' alt='Angular Logo' width='50px' height='50px'/></a>
+<a href='https://dotnet.microsoft.com/en-us/apps/aspnet'><img src='https://skillicons.dev/icons?i=cs' alt='C# Logo' width='50px' height='50px'/></a>
+<a href='https://www.python.org/'><img src='https://skillicons.dev/icons?i=python' alt='Python Logo' width='50px' height='50px'/></a>
 <a href='https://www.postman.com/'><img src='https://skillicons.dev/icons?i=postman' alt='Postman Logo' width='50px' height='50px'/></a>
+<a href='https://firebase.google.com/'><img src='https://skillicons.dev/icons?i=firebase' alt='Firebase Logo' width='50px' height='50px'/></a>
 <a href='https://github.com/'><img src='https://skillicons.dev/icons?i=github' alt='GitHub Logo' width='50px' height='50px'/></a>
+<a href='https://figma.com/'><img src='https://skillicons.dev/icons?i=figma' alt='Figma Logo' width='50px' height='50px'/></a>
+<a href='https://azure.microsoft.com/en-us'><img src='https://skillicons.dev/icons?i=azure' alt='Azure Logo' width='50px' height='50px'/></a>
+<a href='https://codepen.io/'><img src='https://skillicons.dev/icons?i=codepen' alt='Codepen Logo' width='50px' height='50px'/></a>
+<a href='https://discord.com/'><img src='https://skillicons.dev/icons?i=discord' alt='Discord Logo' width='50px' height='50px'/></a>
+<a href='https://about.gitlab.com/'><img src='https://skillicons.dev/icons?i=gitlab' alt='Gitlab Logo' width='50px' height='50px'/></a>
+<a href='https://ionicframework.com/'><img src='https://www.svgrepo.com/show/353912/ionic-icon.svg' alt='Ionic Logo' width='50px' height='50px'/></a>
+<a href='https://www.mysql.com/'><img src='https://skillicons.dev/icons?i=mysql' alt='SQL Logo' width='50px' height='50px'/></a>
+
+<h2>🗃️ Projects</h2>
+
+<h3>Race Fanatic</h3>
+<ul>
+  <li><div>📁 GitHub Repository: <a target="_new" href="https://github.com/Getsov/Motorsport-Events-App">Race Fanatic Repository</a></div></li>
+  <li><div>📃 Description: An all-in-one hybrid mobile app that brings all motorsports events in Bulgaria into one place. The main features are a calendar of all events, searching and filtering events, full information about the events, Google map of the location. Each user can register a regular or organizator account which upon approval from the admin can create events.</div></li>
+</ul>
+<h4>Technologies used</h4>
+<ul>
+  <li><strong>Ionic with Angular:</strong> The hybrid mobile app is developed using the Ionic with Angular.</li>
+  <li><strong>Angular 17.0.0:</strong> We used Angular 17.0.0 to create web application for our Admin Panel.</li>
+  <li><strong>RESTful API:</strong> Our RESTful API server is developed using Node.js, Express.js, and MongoDB to handle backend operations.</li>
+  <li><strong>Figma:</strong> We are using Figma for User Interface Design.</li>
+</ul>
+
+---
+
+<h3>Free Photos</h3>
+<ul>
+  <li><div>📁 GitHub Repository: <a target="_new" href="https://github.com/Nikolay-Gavazov/SoftUni/tree/main/React/React%20Final%20Project">Free Photos Repository</a></div></li>
+  <li><div>📃 Description: Free Photos is a web application, where you can find or upload photos for free.</div></li>
+  <li><div>▶️ Demo: <a target="_new" href="https://free-photos-ac0ea.web.app/">Free Photos Demo</a></div></li>
+</ul>
+<h4>Technologies used</h4>
+<ul>
+  <li><strong>React:</strong> The reactive web app is made with React on the client site.</li>
+  <li><strong>RESTful API:</strong> Our RESTful API server is developed using Node.js, Express.js, and MongoDB to handle backend operations.</li>
+  <li><strong>Figma:</strong> I am using Figma for User Interface Design.</li>
+</ul>
+
+---
+
+<h3>SozopoliStudios</h3>
+<ul>
+  <li><div>📁 GitHub Repository: <a target="_new" href="https://github.com/Nikolay-Gavazov/SozopoliStudios">SozopoliStudios Repository</a></div></li>
+  <li><div>📃 Description: Sozopol Studios is a web application for booking a holiday property. The owner offers his studios and customers can view and book them.</div></li>
+  <li><div>▶️ Demo: <a target="_new" href="https://sozopolistudios.web.app/">SozopoliStudios Demo</a></div></li>
+</ul>
+<h4>Technologies used</h4>
+<ul>
+  <li><strong>Angular:</strong>The responsive web app is made with Angular on the client site.</li>
+  <li><strong>RESTful API:</strong> Our RESTful API server is developed using Node.js, Express.js, and MongoDB to handle backend operations.</li>
+  <li><strong>Figma:</strong> I am using Figma for User Interface Design.</li>
+</ul>
 
 <h2>🎓Certificates</h2>
 <div><a target="_new" href="https://softuni.bg/certificates/certificates/converttoimage/137474?code=b24c3139">JS Basics</a></div>
