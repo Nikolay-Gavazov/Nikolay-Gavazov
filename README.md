@@ -1,9 +1,9 @@
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">! Welcome to My Profile!</h1>
 
-<h3 align="center">I am Nikolay Gavazov.
-I am currently actively studying JavaScript at SoftUni. 
-At the moment I am fully committed to entering the world of programming. </h3>
-
+<h2 align="center">I am Nikolay Gavazov.Full Stack Web Developer with a Passion for Innovation.</h2>
+<h3 align="center">My journey in web development is a story of passion, dedication, and endless curiosity. As a full stack web developer, I've honed my skills to create dynamic and innovative digital experiences that leave a lasting impact.</h3>
+  <h3>When it comes to frontend development, I thrive on JavaScript, React, and Angular. These tools are my paintbrushes, allowing me to create stunning interfaces and seamless user experiences. And on the backend, I harness the power of Node.js to bring functionality and performance to my projects.</h3>
+  <h3>You'll often find me diving deep into C# and Python, exploring their intricacies and finding creative solutions to complex problems. And databases? Well, I'm fluent in both SQL and NoSQL, ensuring that my applications are not just powerful, but also scalable and efficient.</h3>
 
 🧰 Toolbox
 ---
