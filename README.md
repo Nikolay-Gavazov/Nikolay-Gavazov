@@ -46,6 +46,21 @@
 
 ---
 
+<h3>NG Garage</h3>
+<ul>
+  <li><div>📁 GitHub Repository: <a target="_new" href="https://github.com/Nikolay-Gavazov/NG-Garage">NG Garage Repository</a></div></li>
+  <li><div>📃 Description: NG Garage is a spa application for car service and car wash. It contains information about the services performed, and registered users can book an appointment.</div></li>
+  <li><div>▶️ Demo: <a target="_new" href="https://ng-garrage.web.app/">NG Garage Demo</a></div></li>
+</ul>
+<h4>Technologies used</h4>
+<ul>
+  <li><strong>React:</strong> The reactive web app is made with React on the client site.</li>
+  <li><strong>RESTful API:</strong> Our RESTful API server is developed using Node.js, Express.js, and MongoDB to handle backend operations.</li>
+  <li><strong>Design:</strong> With the template ready, I created the entire structure. The template was not made for a website with users, but with the design already created, I made the login and register pages.</li>
+</ul>
+
+---
+
 <h3>Free Photos</h3>
 <ul>
   <li><div>📁 GitHub Repository: <a target="_new" href="https://github.com/Nikolay-Gavazov/SoftUni/tree/main/React/React%20Final%20Project">Free Photos Repository</a></div></li>
