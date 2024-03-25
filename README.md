@@ -1,4 +1,4 @@
-<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">! Welcome to My Profile!</h1>
+<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px" style="max-width: 30px; display: inline-block;" data-target="animated-image.originalImage">! Welcome to My Profile!</h1>
 
 <h2 align="center">I am Nikolay Gavazov.Full Stack Web Developer with a Passion for Innovation.</h2>
 <h3 align="center">My journey in web development is a story of passion, dedication, and endless curiosity. As a full stack web developer, I've honed my skills to create dynamic and innovative digital experiences that leave a lasting impact.</h3>
